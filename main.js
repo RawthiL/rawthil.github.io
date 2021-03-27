@@ -27,6 +27,7 @@ $(function() {
 			$body.removeClass('is-loading');
 		});
 
+/*
 	// Poptrox.
 		$window.on('load', function() {
 
@@ -45,5 +46,5 @@ $(function() {
 			});
 
 		});
-
+*/
 });

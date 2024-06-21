@@ -1411,7 +1411,8 @@
 
 	body {
 		  background-color: #000;
-      background-image: url(./assets/back_bone_2_lr.jpg);
+		  background-image: url(./assets/back_bh.png);
+      /*background-image: url(./assets/back_bone_2_lr.jpg);*/
       /*background-image: url(./assets/back_bone_1_lr.jpg);*/
 
       /* Image is centered vertically and horizontally at all times */

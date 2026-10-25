@@ -1,16 +1,17 @@
-# rawthil.com.ar
+# Hello?
 
-My corner of the web — an interactive map of the paths my work has taken.
+If you are looking for the web page, it is [here](https://rawthil.com.ar). 
 
-Built with React + Vite + Tailwind, deployed on GitHub Pages. The background
-mesh is rendered in real time from `src/data/star_map.json` (my own hand-drawn
-map): 136 nodes and 150 triangles whose edges light up as you scroll.
+If you want to check the code go ahead but keep in mind I'm not a web designer!
+
+### Notes to self
+
+Built with React + Vite + Tailwind, deployed on GitHub Pages. 
+The background mesh is rendered in real time from `src/data/star_map.json` 
+
 
 ```bash
 npm install
 npm run dev      # local dev
 npm run build    # production build → dist/
 ```
-
-Pushing to `main` deploys automatically via GitHub Actions
-(`.github/workflows/deploy.yml` — set Pages source to "GitHub Actions").
